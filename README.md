@@ -1,1 +1,1 @@
-# to-do-list
+A to-do list is a simple and effective tool used to organize tasks and activities. It helps individuals manage their time, prioritize important tasks, and keep track of their progress. I made this to list with the help of Javascript.
